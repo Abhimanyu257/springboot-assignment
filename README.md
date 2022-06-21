@@ -2,7 +2,7 @@
 
 <h2>Adding a new Entity :</h2>
 
-![addEmployee](https://user-images.githubusercontent.com/106801799/174851771-04d81b5f-f81d-46b2-a77a-d70ac09d7fd0.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/106801799/174855368-915a3c85-bccb-4a9b-ba8e-872076a8ded8.png)
 
 
 <h2>Reading Entity :</h2>
@@ -19,7 +19,8 @@
 
 <h2>Data connected to Mysql</h2>
 
-![mySQL](https://user-images.githubusercontent.com/106801799/174850926-09f02abc-3a7d-4c86-b297-e5e468f3bddc.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/106801799/174854398-694e47ee-3593-4d7e-9fde-115725b98e2d.png)
+
 
 <h2>Data conencted to MongoDB</h2>
 
